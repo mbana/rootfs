@@ -1,0 +1,1 @@
+/home/mbana/.config/home-manager/home.nix
